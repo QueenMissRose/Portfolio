@@ -19,20 +19,29 @@ Here are some of my featured Projects:
 
 #### 1. Tupac Tribute Page
 **Description:** A tribute page to Tupac Shakur. Sharing life events and a picture gallery.
+
 **Tech Stack:** HTML, CSS
+
 **Live Demo:** [View Demo]()- <!-- ? INSERT LINK HERE -->
+
 **Repository:** [View Repository]() <!-- ? insert link here -->
 
 #### 2. Contact Form
 **Description:** A survey contact form for feedback on FreeCodeCamp.
+
 **Tech Stack:** HTML, CSS
+
 **Live Demo:** [View Demo]()- <!-- ? INSERT LINK HERE -->
+
 **Repository:** [View Repository]() <!-- ? insert link here -->
 
 #### 3. JS Technical Document
 **Description:** A technical document teaching the basics of JavaScript. With an automatic dectector of the users color-scheme preference (Light / Darkmode).
+
 **Tech Stack:** HTML, CSS
+
 **Live Demo:** [View Demo]()- <!-- ? INSERT LINK HERE -->
+
 **Repository:** [View Repository]() <!-- ? insert link here -->
 
 And more smaller projects within my portfolio 
