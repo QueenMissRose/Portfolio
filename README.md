@@ -2,7 +2,7 @@
 
 **Welcome** to my portfolio! I'm Melissa, a Software Engineer passionate about creating functional and aesthetic Web Applications. Here, you'll find a showcase of my projects, skills, and contributions to web development.
 
-![Portfolio Screenshot](img/screenshot.png)
+![Portfolio Screenshot](img/homepage-screenshot.png)
 
 ### Live Demo: [View Demo](https://melissarose.info)
 
