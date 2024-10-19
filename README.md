@@ -9,9 +9,8 @@
 ## Table of Contents
 [Projects](#projects)
 [Technologies](#technologies)
-[Setup and Installation](#setup-and-installation)
+[How to Clone my Repository](#how-to-clone-my-repository)
 [Lessons Learned](#lessons-learned)
-[Acknowledgements](#acknowledgements)
 [Contact](#contact)
 
 ## Projects
@@ -69,3 +68,18 @@ npm install
 ```bash
 npm start
 ```
+## Lessons Learned
+
+Throughout the process of creating my portfolio, I gained valuable insights and skills. I learned how to read and understand other people's code, as well as how to integrate my own code into existing templates. This was my first experience using a template, and I initially expected it to be straightforward. However, I found that adapting it to fit my own vision was quite challenging at times.
+
+Additionally, it was my first time working with Bootstrap and JavaScript, which were already incorporated into the template. This experience pushed me to deepen my understanding of both technologies, as I navigated the learning curve and explored how they could enhance my project.
+
+## Contact
+
+I'd love to hear from you! Whether you want to commision me for a site of your own, colab on something together, or chat about anything tech!
+
+- **Email:** [contact@melissa.info](contact@melissa.info)
+- **Linkedin:** [Melissa Rose](https://linkedin.com/in/melissaphyn)
+- **Twitter:** [Missrose_dev](https://twitter.com/missrose_dev) 
+
+twitter is where i'm most active <3
