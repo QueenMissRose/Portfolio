@@ -2,7 +2,7 @@
 
 **Welcome** to my portfolio! I'm Melissa, a Software Engineer passionate about creating functional and aesthetic Web Applications. Here, you'll find a showcase of my projects, skills, and contributions to web development.
 
-![Portfolio Screenshot](img/screenshot.png)
+![Portfolio Screenshot](img/homepage-screenshot.png)
 
 ### Live Demo: [View Demo](https://melissarose.info)
 
@@ -17,32 +17,23 @@
 
 Here are some of my featured Projects:
 
-#### 1. Tupac Tribute Page
-**Description:** A tribute page to Tupac Shakur. Sharing life events and a picture gallery.
+### 1. Tupac Tribute Page
+**Description:** A tribute page to Tupac Shakur. Sharing life events and a picture gallery.<br>
+**Tech Stack:** HTML, CSS<br>
+**Live Demo:** [View Demo]() <!-- ? INSERT LINK HERE --><br>
+**Repository:** [View Repository]() <!-- ? insert link here --><br>
 
-**Tech Stack:** HTML, CSS
+### 2. Contact Form
+**Description:** A survey contact form for feedback on FreeCodeCamp.<br>
+**Tech Stack:** HTML, CSS<br>
+**Live Demo:** [View Demo]() <!-- ? INSERT LINK HERE --><br>
+**Repository:** [View Repository]() <!-- ? insert link here --><br>
 
-**Live Demo:** [View Demo]()- <!-- ? INSERT LINK HERE -->
-
-**Repository:** [View Repository]() <!-- ? insert link here -->
-
-#### 2. Contact Form
-**Description:** A survey contact form for feedback on FreeCodeCamp.
-
-**Tech Stack:** HTML, CSS
-
-**Live Demo:** [View Demo]()- <!-- ? INSERT LINK HERE -->
-
-**Repository:** [View Repository]() <!-- ? insert link here -->
-
-#### 3. JS Technical Document
-**Description:** A technical document teaching the basics of JavaScript. With an automatic dectector of the users color-scheme preference (Light / Darkmode).
-
-**Tech Stack:** HTML, CSS
-
-**Live Demo:** [View Demo]()- <!-- ? INSERT LINK HERE -->
-
-**Repository:** [View Repository]() <!-- ? insert link here -->
+### 3. JS Technical Document
+**Description:** A technical document teaching the basics of JavaScript. With an automatic dectector of the users color-scheme preference (Light / Darkmode).<br>
+**Tech Stack:** HTML, CSS<br>
+**Live Demo:** [View Demo]() <!-- ? INSERT LINK HERE --><br>
+**Repository:** [View Repository]() <!-- ? insert link here --><br>
 
 And more smaller projects within my portfolio 
 
