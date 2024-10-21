@@ -26,7 +26,7 @@ Here are some of my featured Projects:
 ### 2. Contact Form
 **Description:** A survey contact form for feedback on FreeCodeCamp.<br>
 **Tech Stack:** HTML, CSS<br>
-**Live Demo:** [View Demo](https://freecodecampformsurvey.netlify.app/)><br>
+**Live Demo:** [View Demo](https://freecodecampformsurvey.netlify.app/)<br>
 **Repository:** [View Repository](https://github.com/QueenMissRose/Survey-Form)<br>
 
 ### 3. JS Technical Document
