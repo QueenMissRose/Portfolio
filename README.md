@@ -20,20 +20,20 @@ Here are some of my featured Projects:
 ### 1. Tupac Tribute Page
 **Description:** A tribute page to Tupac Shakur. Sharing life events and a picture gallery.<br>
 **Tech Stack:** HTML, CSS<br>
-**Live Demo:** [View Demo]() <!-- ? INSERT LINK HERE --><br>
-**Repository:** [View Repository]() <!-- ? insert link here --><br>
+**Live Demo:** [View Demo](https://tupacshakur-tribute.netlify.app/)<br>
+**Repository:** [View Repository](https://github.com/QueenMissRose/tribute-page)<br>
 
 ### 2. Contact Form
 **Description:** A survey contact form for feedback on FreeCodeCamp.<br>
 **Tech Stack:** HTML, CSS<br>
-**Live Demo:** [View Demo]() <!-- ? INSERT LINK HERE --><br>
-**Repository:** [View Repository]() <!-- ? insert link here --><br>
+**Live Demo:** [View Demo](https://freecodecampformsurvey.netlify.app/)><br>
+**Repository:** [View Repository](https://github.com/QueenMissRose/Survey-Form)<br>
 
 ### 3. JS Technical Document
 **Description:** A technical document teaching the basics of JavaScript. With an automatic dectector of the users color-scheme preference (Light / Darkmode).<br>
 **Tech Stack:** HTML, CSS<br>
-**Live Demo:** [View Demo]() <!-- ? INSERT LINK HERE --><br>
-**Repository:** [View Repository]() <!-- ? insert link here --><br>
+**Live Demo:** [View Demo](https://jstechnicaldocument.netlify.app/)<br>
+**Repository:** [View Repository](https://github.com/QueenMissRose/Technical-Document)<br>
 
 And more smaller projects within my portfolio 
 
