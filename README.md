@@ -23,13 +23,19 @@ Here are some of my featured Projects:
 **Live Demo:** [View Demo](https://tupacshakur-tribute.netlify.app/)<br>
 **Repository:** [View Repository](https://github.com/QueenMissRose/tribute-page)<br>
 
-### 2. Contact Form
+### 2. Lion's Guard
+**Description:** a website for a Martial Arts gym called Lion's Guard<br>
+**Tech Stack:** HTML, CSS<br>
+**Live Demo:** [View Demo](https://lionsguard.netlify.app/)<br>
+**Repository:** [View Repository](https://github.com/QueenMissRose/Lions-Guard)<br>
+
+### 3. Contact Form
 **Description:** A survey contact form for feedback on FreeCodeCamp.<br>
 **Tech Stack:** HTML, CSS<br>
 **Live Demo:** [View Demo](https://freecodecampformsurvey.netlify.app/)<br>
 **Repository:** [View Repository](https://github.com/QueenMissRose/Survey-Form)<br>
 
-### 3. JS Technical Document
+### 4. JS Technical Document
 **Description:** A technical document teaching the basics of JavaScript. With an automatic dectector of the users color-scheme preference (Light / Darkmode).<br>
 **Tech Stack:** HTML, CSS<br>
 **Live Demo:** [View Demo](https://jstechnicaldocument.netlify.app/)<br>
