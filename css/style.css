@@ -924,6 +924,7 @@ footer img {
     padding-bottom: 50px;
     display: flex;
     align-items: center;
+    justify-content: center;
 }
 
 .pfp-img-container {
