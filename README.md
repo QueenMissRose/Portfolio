@@ -4,7 +4,7 @@
 
 ![Portfolio Screenshot](img/homepage-screenshot.png)
 
-### Live Demo: [View Demo](https://melissarose.info)
+### Live Site: [View Site](https://melissarose.info)
 
 ## Table of Contents
 - [Projects](#projects)
@@ -48,8 +48,8 @@ And more smaller projects within my portfolio
 I have experience with a variety of technologies, including:
 - **Frontend:** HTML5, CSS3, JavaScript(ES6+), Bootstrap
 - **Version Control:** Git, Github
-- **Development Tools:** Homebrew, iTerm 2
-- **Other Tools:** Canva
+- **Development Tools:** VS code, Homebrew, iTerm 2
+- **UX/UI Tools:** Figma, Canva, Adobe Fresco, Procreate
 
 ## Lessons Learned
 
